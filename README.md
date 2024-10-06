@@ -1,6 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Promt-Generator for Midjourney, Stable Diffusion, Adobe Firefly, etc in NUXT3.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Inspiration provided by [ deaex.](https://deaex.at). Developed by [tom.](https://leiter.cc)
+
+DEMO: https://promtgenerator.pages.dev/
+
+No warranty is provided. Use at your own risk.
+
+
+(https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 

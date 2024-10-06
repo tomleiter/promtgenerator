@@ -1,0 +1,80 @@
+{
+  "Aesthetics": {
+    "terms": [
+      "whimsy gothic", "cottagecore", "cyberpunk", "1990s", "luxury", "80ies", "Surrealism", "Sci-Fi", "cosmic wave", "vapor wave", "retro holiday", "50ies suburbia", "Art Deco", "Art Noveau", "Steampunk", "Dystopia", "Office Siren", "Britpop", "Beatnik", "Clean Girl", "Y2K", "Lo-Fi"
+    ],
+    "color": "#FFB6C1"  
+  },
+  "Colors": {
+    "terms": [
+      "Neon", "High contrast", "Psychedelic", "Gradient", "Iridescent", "Primary Colors", "Fluorescent", "Bright Orange", "Vibrant Colors"
+    ],
+    "color": "#B3E5FC"  
+  },
+  "Contrast Styles": {
+    "terms": [
+      "Black and white", "Light", "Dark", "Depressive", "Cinematic", "Monochromatic", "Dramatic lighting", "vintage"
+    ],
+    "color": "#FFF9C4" 
+  },
+  "Subtle Colors": {
+    "terms": [
+      "Warm", "Earthy", "Pastel", "Neutral", "Muted", "Low contrast", "Sepia", "Ombre", "Monochrome"
+    ],
+    "color": "#C8E6C9"  
+  },
+  "Perspective": {
+    "terms": [
+      "Close up", "Shot from a low angle", "Shot from above", "Shot from below", "Overhead", "Bird's Eye View", "Dutch Angle", "Over-the-Shoulder", "Satellite image"
+    ],
+    "color": "#D1C4E9"  
+  },
+  "Lenses": {
+    "terms": [
+      "Fish-Eye", "Wide angle lens", "Macro cinematography", "Wide angle", "Telephoto lens"
+    ],
+    "color": "#FFCCBC"  
+  },
+  "Motion": {
+    "terms": [
+      "High-speed action", "Dynamic shot", "Motion blur effect", "Blurred movement", "Zoom Burst", "Panning Effect", "Long Exposure Trails", "Motion Freeze", "Hyperlapse"
+    ],
+    "color": "#F8BBD0"  
+  },
+  "Lighting Natural": {
+    "terms": [
+      "Daylight", "Night", "Golden hour", "Blue hour", "Sunrise", "Twilight", "Moonlight", "Overcast", "Dusk"
+    ],
+    "color": "#D7CCC8"  
+  },
+  "Lighting Artificial / Kreativ": {
+    "terms": [
+      "Diffused lighting", "Light Painting", "Flash photography", "Lens Flare"
+    ],
+    "color": "#DCEDC8"  
+  },
+  "Lighting Special": {
+    "terms": [
+      "Silhouette", "Light from behind", "Low-Key", "High-Key", "Cinematic", "Long exposure time"
+    ],
+    "color": "#FFE0B2"  
+  },
+  "Effects Styles": {
+    "terms": [
+      "Tilt-shift", "Glitch art", "Hypnagogic", "Bokeh effect", "Holographic", "Grainy VHS footage", "Polaroid", "Split Toning", "Selective Color", "Infrared Photography"
+    ],
+    "color": "#FFECB3" 
+  },
+  "Film / Foto Styles": {
+    "terms": [
+      "Fomapan", "VSCO", "Fujicolor", "Cinematic", "Grainy VHS footage", "Polaroid", "High Dynamic Range"
+    ],
+    "color": "#FFCDD2" 
+  },
+  "Digital & Analogue Effects": {
+    "terms": [
+      "Glitch art", "Hypnagogic", "Bokeh effect", "Holographic", "Fomapan", "VSCO", "Fujicolor", "Infrared Photography"
+    ],
+    "color": "#E1BEE7"
+  }
+}

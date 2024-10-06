@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    
+    background:#311E59;
+}
+
+.page{
+    @apply animate-comein;
+    background: linear-gradient(180deg, #311E59, #823A71, #533DA0) !important
+  
+}
+
+b, strong {
+    @apply font-medium;
+    font-weight: bold;
+}
+h1{
+    @apply text-8xl antialiased text-white font-light hyphens-auto lg:hyphens-none; 
+}
+h2{
+    @apply  text-6xl antialiased font-light text-white pb-4 hyphens-auto;
+}
+h3{
+    @apply  antialiased font-bold text-white pb-4 hyphens-auto;
+}
+
+p,p ul{
+    @apply  font-normal antialiased;
+    li{
+        @apply before:mr-2;
+    }
+}
+
+p{
+    @apply  text-xs xl:text-base font-normal text-white pb-0 my-4;
+}
+
+input,select,textarea{
+     @apply   border-l-4 border-black border-b-1 focus:!bg-white border-black w-full p-2   focus:border-green-300  focus:border-b-2  ;
+    
+  }
+
+  input[type="text"],  input[type="date"]{
+        @apply  border-l-4 border-black focus:!bg-white;
+            list-style: none;
+            margin: 0;
+    
+  }
+
+.form-checkbox{
+    @apply  w-8 ;
+}
+
+button{
+    @apply  transition-all duration-300 hover:!opacity-80;
+}

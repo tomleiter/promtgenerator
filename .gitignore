@@ -1,0 +1,9 @@
+# Nuxt 3-related exclusions
+.output/
+node_modules/
+.nuxt/
+.vercel/
+.vscode/
+
+# Exclude package-lock.json
+package-lock.json
